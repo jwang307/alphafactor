@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-1. Install dependencies:
+1. Install dependencies. Chai-1 requires a GPU and memory capacity detailed in the [Chai-1 repository](https://github.com/chaidiscovery/chai-lab?tab=readme-ov-file#installation).
 ```bash
 pip install chai_lab==0.6.1
 ```
